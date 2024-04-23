@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "rootDir": "./src",
+    "outDir": "./build",
+    "forceConsistentCasingInFileNames": true
+  },
+  "exclude": [
+    "public/**/*"
+  ]
+}
